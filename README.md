@@ -19,8 +19,8 @@ I'm a detail-oriented QA engineer with hands-on experience testing web and mobil
 - **React Native Mobile App** - Manual testing of UI flows and API endpoints
 
 ## 📜 Certifications
-- ✅ **ISTQB Foundation Level** (ASTQB)
-- ✅ **Coursera** - Foundations of Software Testing
+- ✅ **ISTQB Foundation Level** [ASTQB](https://atsqa.org/documents/certificates/2a9ed13de8b642b7924ce2eeb76e9d6e-certificate.pdf)
+- ✅ **Coursera** - Foundations of Software Testing [Coursera](https://coursera.org/verify/7607MFLR5KKH)
 
 ## 📊 GitHub Stats
 <p align="center">
